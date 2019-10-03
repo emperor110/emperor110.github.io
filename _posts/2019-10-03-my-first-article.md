@@ -10,6 +10,8 @@ categories:
 
 ![](/assets/images/FIRST.png)
 
+---
+
 # 为什么要建站？
 
   * 我会间歇写一些文章发表在网络上，而QQ空间或是微信朋友圈对长文非常不友好，使用体验极差
@@ -26,13 +28,13 @@ categories:
 
 # 我的联系方式
 
-qq:610303743
+qq: 610303743
 
-email:610303743@qq.com
+email: 610303743@qq.com
 
-wechat:weizeyu2001
+wechat: weizeyu2001
 
-tel：15196670978（请尽量短信联系）
+tel: 15196670978（请尽量短信联系）
 
 
 
