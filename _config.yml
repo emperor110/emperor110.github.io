@@ -88,7 +88,7 @@ defaults:
       share: false
 
 # Site Author
-author:Jason Wei
+author:
   name: Jason wei
   picture: /assets/images/author.jpg
   email: 610303743@qq.com
