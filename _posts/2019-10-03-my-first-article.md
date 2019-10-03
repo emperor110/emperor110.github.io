@@ -1,6 +1,7 @@
 ---
 title: "我的第一篇文章"
-sub_title: "副标题"
+sub_title: "副标题，两边是英文引号"
+excerpt: "摘要，这些引号都可以不打"
 categories:
   - Markup
 elements:
