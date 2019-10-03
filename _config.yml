@@ -16,11 +16,11 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: zh-CN
-title: "标题"
-description: "标题描述"
+title: "网站标题"
+description: "网站描述"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://emperor110.github.io
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: /assets/images/author.jpg
 date_format: "%Y 年 %m 月 %d 日"
 read_time: false
 words_per_minute: # 200
@@ -41,7 +41,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:title/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -54,7 +54,7 @@ feed:
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
+category_archive_path: "/categories/#"
 # tag_archive_path: "/tags/#"
 
 # Exclude from processing.
