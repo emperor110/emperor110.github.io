@@ -17,7 +17,7 @@
 # remote_theme: mmistakes/so-simple-theme
 locale: zh-CN
 title: "Jason's space"
-description: "across the universe"
+description: "And in the end, The love you take is equal to the love you make"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://emperor110.github.io
 logo: /assets/images/author.jpg
