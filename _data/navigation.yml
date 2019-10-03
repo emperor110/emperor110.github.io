@@ -1,7 +1,11 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: 主页
   url: /
+- title: 文章
+  url: /posts/
+- title: 类别
+  url: /categories/
 # - title: Posts
 #   url: /posts/
 # - title: Categories
