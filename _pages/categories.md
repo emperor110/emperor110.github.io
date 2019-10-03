@@ -1,5 +1,5 @@
 ---
 layout: categories
-title: "所有类别"
+title: "CATEGORIES"
 permalink: /categories/
 ---
