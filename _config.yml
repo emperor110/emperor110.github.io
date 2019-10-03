@@ -16,8 +16,8 @@
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: zh-CN
-title: "魏泽宇的备忘录"
-description: "网站描述"
+title: "Jason's space"
+description: "across the universe"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://emperor110.github.io
 logo: /assets/images/author.jpg
