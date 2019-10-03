@@ -7,6 +7,7 @@ categories:
 
 感谢刘鎏和彭宇奥的大力帮助，让我这个程序白痴也拥有了自己的网站。
 
+---
 
 ![](/assets/images/FIRST.png)
 
