@@ -44,7 +44,7 @@ zh-CN:
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu_label: "菜单"
-  by: "by"
+  by: ""
   min_read: "min read"
   read_more: "阅读更多："
   categories: "类别"
@@ -59,7 +59,7 @@ zh-CN:
   previous: "上一篇"
   newer: "较新文章"
   older: "较旧文章"
-  back_to_top: "Back to Top"
+  back_to_top: "返回顶部"
   search_placeholder_text: "Enter your search term..."
   powered_by: "Powered by"
 
