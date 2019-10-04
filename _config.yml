@@ -93,7 +93,10 @@ author:
   picture: /assets/images/author.jpg
   email: 610303743@qq.com
   twitter: 魏泽宇
-  links: https://twitter.com/ewfyek
+  links: 
+    - title: Twitter
+    - url: https://twitter.com/ewfyek
+    - icon: fab fa-twitter
 
 # Footer Links
 footer_links:
@@ -103,3 +106,6 @@ footer_links:
   - title: Weibo
     url: https://www.weibo.com/5234092069/profile?topnav=1&wvr=6
     icon: fab fa-weibo
+  - title: QQ
+    url: https://user.qzone.qq.com/610303743/main
+    icon: fab fa-qq
