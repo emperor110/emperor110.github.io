@@ -97,6 +97,12 @@ author:
     - title: Twitter
       url: https://twitter.com/ewfyek
       icon: fab fa-twitter
+    - title: Weibo
+      url: https://www.weibo.com/5234092069/profile?topnav=1&wvr=6
+      icon: fab fa-weibo
+    - title: QQ
+      url: https://user.qzone.qq.com/610303743/main
+      icon: fab fa-qq
 
 # Footer Links
 footer_links:
