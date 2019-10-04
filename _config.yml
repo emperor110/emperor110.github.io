@@ -95,8 +95,8 @@ author:
   twitter: 魏泽宇
   links: 
     - title: Twitter
-    - url: https://twitter.com/ewfyek
-    - icon: fab fa-twitter
+      url: https://twitter.com/ewfyek
+      icon: fab fa-twitter
 
 # Footer Links
 footer_links:
