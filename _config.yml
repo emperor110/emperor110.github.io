@@ -92,11 +92,15 @@ author:
   name: Jason Wei
   picture: /assets/images/author.jpg
   email: 610303743@qq.com
-  twitter: 
-  links: false
+  twitter: @ewfyek
+  links: https://twitter.com/ewfyek
 
 # Footer Links
 footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+  - title: Weibo
+    url: https://www.weibo.com/5234092069/profile?topnav=1&wvr=6
+    icon: fab fa-weibo
