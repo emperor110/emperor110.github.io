@@ -1,6 +1,8 @@
 ---
 title: "军训后的必要感想"
 excerpt: "为了一丝真诚而做的思想斗争"
+image: 
+  thumbnail: /assets/images/2-400x200.jpg
 categories:
   - 有感而发
 ---
