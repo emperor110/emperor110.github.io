@@ -1,11 +1,10 @@
 ---
 title: "与谢策谈话后必要的感想"
+image: assets/images/4.jpg
 excerpt: "为数不多真诚到极致的想法"
 categories:
   - 历史遗留问题
 ---
-
-image:![](/assets/images/4.jpg)
 
 **注意！** 本文写于2018年9月15日
 
