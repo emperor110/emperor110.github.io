@@ -5,7 +5,8 @@ categories:
   - 有感而发
 ---
 
-![](/assets/images/3，jpg)
+![](/assets/images/3.jpg)
+
 （《政治学通识》是我高中时期了解政治概念最重要的资源）
 
 ---
