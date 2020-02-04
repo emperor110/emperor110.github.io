@@ -1,7 +1,5 @@
 ---
 title: "面对疫情"
-image: 
-  thumbnail: /assets/images/xg-400x200.jpg
 excerpt: "如题"
 categories:
   - 有感而发
