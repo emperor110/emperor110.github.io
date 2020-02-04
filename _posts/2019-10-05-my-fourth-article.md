@@ -3,7 +3,7 @@ title: "与谢策谈话后必要的感想"
 image: 
   path: /assets/images/4.jpg
   thumbnail: /assets/images/4-400x200.jpg
-excerpt: "为数不多真诚到极致的想法"
+excerpt: "陈年旧事"
 categories:
   - 历史遗留问题
 ---
